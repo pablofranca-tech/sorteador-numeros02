@@ -15,3 +15,5 @@ Este projeto é um sorteador de números aleatórios com interface visual. Desen
 - CSS3
 - JavaScript
 
+## 🌐 Site publicado
+Acesse o projeto online: [Sorteador de Números](https://pablofranca-tech.github.io/sorteador-numeros02/)
