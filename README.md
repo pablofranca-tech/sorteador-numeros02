@@ -15,8 +15,3 @@ Este projeto é um sorteador de números aleatórios com interface visual. Desen
 - CSS3
 - JavaScript
 
-## 📦 Como executar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/pablofranca-tech/sorteador-numeros02.git
